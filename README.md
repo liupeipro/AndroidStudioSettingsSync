@@ -1,0 +1,2 @@
+# AndroidStudioSettingsSync
+AndroidStudioSettingsSync 不同设备间的studio设置同步。
